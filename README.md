@@ -12,8 +12,10 @@ Repósitorio para armazenar resumos sobre Git e GitHub do curso de Bootcamp Ciê
 
 |Aulas | Resumo |
 |-----|--------|
-| Gravando alterações no Repósitorio local | 
-() |
+| Gravando alterações no Repósitorio local |[resumos]()|
+| Aula 01|[Resumos]()|
+| Aula 02|[Resumos]()|
+
 
 ```
 $ git init
